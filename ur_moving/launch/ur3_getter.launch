@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="ur3_getter" pkg="ur3_moving" type="ur3_getter" respawn="false" output="screen">
+  </node>
+
+</launch>

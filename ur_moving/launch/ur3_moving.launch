@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="ur3_moving" pkg="ur3_moving" type="ur3_moving" respawn="false" output="screen">
+  </node>
+
+</launch>
